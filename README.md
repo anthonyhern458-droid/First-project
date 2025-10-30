@@ -1,2 +1,7 @@
 # First-project
 Raspberry Pi 4 Homemade Gameboy
+Hello! Today is October 30th, 2025, and I have decided to start on my own little project to familiarize myself with how important computational software is to hardware. I have always wanted to be a computer hardware engineer since working hands on with computers has always been more interesting to me and I have decided to go one step forward.I recently purchased a Raspberry Pi 4 starter kit on Amazon which includes the Raspberry Pi 4 (4GB RAM) itself, a little enclose for the Raspberry Pi 4 (even though I want to create my own as I expand on this project), a fan with heat syncs, a 64 gigabyte microSD card, an 18 watt USB-C power supply and two micro HDMI to HDMI cables. 
+My inspiration for this idea came from talking to my friends, asking ChatGPT questions about the project and YouTube.
+For today, the main thing I want to get started on is downloading Batocera onto the Raspberry Pi. Batocera is an emulation operating system software that can be flashed onto any device to make it an emulator for retro games, such as SNES, NES, Nintendo 64, Sega Genesis, Playstation 1 and 2, and even more modern consoles such as the Wii, Xbox 360 and Nintendo Switch. For the purpose of this project, I will be sticking to the retro console games. 
+For the majority of this project, I will be doing it on my own laptop as my laptop has a built in microSD card reader.
+To start things off, I will be flashing Batocera onto the SD card. 
